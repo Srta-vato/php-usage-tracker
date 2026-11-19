@@ -1,0 +1,5 @@
+# Nunca subas logs ni configuración propia
+logs_uso/
+*.csv
+archivos_vistos.txt
+registrar_uso.config.php
